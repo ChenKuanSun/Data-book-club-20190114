@@ -1,0 +1,24 @@
+{
+  "name": "data-book-club-20190114",
+  "version": "0.1.0",
+  "main": [
+    "js/reveal.js",
+    "css/reveal.css"
+  ],
+  "homepage": "https://chenkuansun.github.io",
+  "license": "MIT",
+  "description": "The HTML Presentation Framework",
+  "authors": [
+    "CK Sun <fgriasa123@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/ChenKuanSun/Data-book-club-20190114.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
